@@ -1,0 +1,2 @@
+This is basically a Truibute site.
+Technology will be HTML and CSS for this site
